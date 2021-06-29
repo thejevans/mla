@@ -54,3 +54,4 @@ jobs:
           VALIDATE_PYTHON_BLACK: false
           VALIDATE_PYTHON_ISORT: false
           VALIDATE_JSCPD: false
+          VALIDATE_PYTHON_MYPY: false
